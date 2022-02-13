@@ -1,0 +1,1 @@
+{"name":"Local: Infq","url":"/home/preeti/Desktop/SDE BOOTCAMP 2022/Infq.java","tests":[{"id":1644320504599,"input":"q,e,u\ne,i,q,a,u\nequal\nqueue","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/preeti/Desktop/SDE BOOTCAMP 2022/Infq.java","group":"local","local":true}
